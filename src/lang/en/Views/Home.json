@@ -1,0 +1,39 @@
+{
+  "jumbotronTitle": "Building a Culture of Excellence",
+  "jumbotronSubTitle": "Relentlessly advancing our clients\" visions, beyond their expectations",
+  "cardFeatures": [
+    {
+      "title": "Award-winning architecture",
+      "text": "Every achievement begins with a vision. It is built on a foundation of creative concepts and dreams to become something bigger and better. At AlphaConstruction we build with those who follow a vision, not a path.",
+      "img": "feature1"
+    },
+    {
+      "title": "Relentless pursuit of your vision",
+      "text": "Our commitment to excellence and continous improvement, to building lasting relationships with our clients, and to the team members who create your vision, are the guiding principles that assure successful outcomes on every project we build.",
+      "img": "feature2"
+    },
+    {
+      "title": "Your vision - Our mission",
+      "text": "To build an everlasting environment of trust with our clients and team members that will foster customer loyalty by delivering superior service and quality projects.",
+      "img": "feature3"
+    }
+  ],
+  "testimonialsTitle": "Testimonials",
+  "testimonials": [
+    {
+      "author": "Nancy Swanson",
+      "title": "President, Springfield Country Club",
+      "quote": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment."
+    },
+    {
+      "author": "Jason Schraiber",
+      "title": "Mayor, Boca Raton",
+      "quote": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment."
+    },
+    {
+      "author": "Joe Malonagi",
+      "title": "General Manager, Springfield Tower",
+      "quote": "The complexities and challenges AlphaConstruction successfully overcame on our behalf includes substantial permit obstacles, coordination and selection support of all design and finish materials, and the diffculty of integrating existing and new structures."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "jumbotronTitle": "Building a Culture of Excellence",
+  "jumbotronSubTitle": "Relentlessly advancing our clients\" visions, beyond their expectations",
+  "categories": [
+    {
+      "text": "All",
+      "filter": null
+    },
+    {
+      "text": "Skyscrapers",
+      "filter": 1
+    },
+    {
+      "text": "Government",
+      "filter": 2
+    },
+    {
+      "text": "Customized",
+      "filter": 3
+    }
+  ],
+  "projects": [
+    {
+      "name": "Lorem Ipsum",
+      "img": "project1.jpg",
+      "categories": [1, 3]
+    },
+    {
+      "name": "Lorem Ipsum",
+      "img": "project2.jpg",
+      "categories": [2, 3]
+    },
+    {
+      "name": "Lorem Ipsum",
+      "img": "project3.jpg",
+      "categories": [4, 3]
+    },
+    {
+      "name": "Lorem Ipsum",
+      "img": "project4.jpg",
+      "categories": [1, 2]
+    },
+    {
+      "name": "Lorem Ipsum",
+      "img": "project5.jpg",
+      "categories": [2, 4]
+    },
+    {
+      "name": "Lorem Ipsum",
+      "img": "project6.jpg",
+      "categories": [1, 4]
+    }
+  ]
+}
